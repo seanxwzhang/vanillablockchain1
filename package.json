@@ -1,0 +1,22 @@
+{
+  "name": "vanillablockchain1",
+  "version": "1.0.0",
+  "description": "Create a vanilla blockchain using Javascript",
+  "main": ".#blockchain.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seanxwzhang/vanillablockchain1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seanxwzhang/vanillablockchain1/issues"
+  },
+  "homepage": "https://github.com/seanxwzhang/vanillablockchain1#readme",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
+}
